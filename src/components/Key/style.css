@@ -40,14 +40,14 @@
 }
 
 .key--natural:active,
-.key--natural.is-active {
+.key--natural.is-pressed {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
 .key--sharp:active,
-.key--sharp.is-active,
+.key--sharp.is-pressed,
 .key--flat:active,
-.key--flat.is-active {
+.key--flat.is-pressed {
   background-color: #555;
 }
 
